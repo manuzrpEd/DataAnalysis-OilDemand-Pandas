@@ -16,7 +16,7 @@ Complete the tables in the Summary (TBC) tab marked as blue.
 
 1. Total oil demand in the road sector = Gasoline demand + Diesel demand + LPG demand.
 2. Gasoline Demand (GD) Diesel demand (DD) and LPG demand (LD) are calculated as follows:
- *  Gasonline (Vehicle population) * Gasoline (Miles Travelled) * Gasoline (Fuel Efficiency).
+ *  Gasoline (Vehicle population) * Gasoline (Miles Travelled) * Gasoline (Fuel Efficiency).
  *  Diesel (Vehicle population) * Diesel (Miles Travelled) * Diesel (Fuel Efficiency).
  *  LPG (Vehicle population) * LPG (Miles Travelled) * LPG (Fuel Efficiency).
 
