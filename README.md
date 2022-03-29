@@ -4,7 +4,7 @@ The attached excel file `Practical Scenario Assessment.xlsx` has an 'Instruction
 
 ### Input data ###
 
-1. Input data are in the sheets marked as green
+1. Input data are in the sheets marked as green:
   *  You are provided with data of sales, population, miles driven, fuel economy/efficiency of different car types: battery electric vehicles (BEVs), hybrid vehicles, conventional gasoline cars, and macroeconomic data like population by age group, GDP through to 2040.
 2. Conversion factors are provided in the "Conversion factors" tab, marked as yellow.
 
