@@ -16,7 +16,7 @@ My Jupyter Notebook is [here](https://github.com/manuzrpEd/DataAnalysis-OilDeman
 
 Complete the tables in the Summary (TBC) tab marked as blue.
 
-### Modelling/Method ###
+### Methodology ###
 
 1. Total oil demand in the road sector = Gasoline demand + Diesel demand + LPG demand.
 2. Gasoline Demand (GD) Diesel demand (DD) and LPG demand (LD) are calculated as follows:
